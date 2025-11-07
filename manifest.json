@@ -3,9 +3,11 @@
   "description": "Hider extension",
   "version": "1.0",
   "manifest_version": 3,
-  "action": {
-    "default_popup": "content.js"
-  },
+  "permissions": [
+    "activeTab",
+    "scripting",
+    "storage"
+  ],
   "host_permissions": [
     "<all-urls>"
   ],
