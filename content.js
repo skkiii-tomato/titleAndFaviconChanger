@@ -1,6 +1,6 @@
 title = document.querySelector("title");
-title.innerHTML = "Britannica";
+title.innerHTML = "Britannica School";
 
 link = document.querySelector("link[rel~='icon']");
 
-link.href = "https://www.shareicon.net/data/512x512/2015/09/25/107042_new_512x512.png";
+link.href = "https://cdn.britannica.com/mendel-resources/3-167/images/EBLogo.jpg?v=3.167.20";
