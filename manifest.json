@@ -9,7 +9,7 @@
     "storage"
   ],
   "host_permissions": [
-    "<all-urls>"
+    "https://*"
   ],
   "content_scripts": [
     {
