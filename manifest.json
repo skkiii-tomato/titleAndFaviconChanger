@@ -6,6 +6,9 @@
   "background": {
     "service_worker": "background.js"
   },
+  "action": {
+    "default_popup": "originalStats.js"
+  },
   "permissions": [
     "activeTab",
     "scripting",
